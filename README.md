@@ -1,6 +1,6 @@
 ---
 tags: kids, python, group project, review
-languages: ruby
+languages: python
 type: group-project
 ---
 
